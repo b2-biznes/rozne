@@ -1,0 +1,86 @@
+tr{
+	padding-top:5px;
+    padding-bottom: 5px;
+
+    
+}
+.naglowek{
+	margin:25px;	
+}
+.padd{
+    padding-top:5px;
+    padding-bottom: 5px;
+
+}
+
+.dnitygodnia{
+    
+    background-color: #A9A9A9;
+}
+.lekarznazwa1{
+    font-weight: 400;
+    background-color: #A9A9A9;
+}
+.lekarznazwa2{
+    font-weight: 400;
+    background-color: #DCDCDC;
+}
+.lekarz1{
+    font-weight: 400;
+    color: white;
+    background-color: #594e9C;
+}
+.lekarz2{
+    font-weight: 400;
+    color: white;
+    background-color: #483D8B;
+}
+.godziny{
+    font-weight: 300;
+    color: #ADD8E6;
+}
+.buton-li{
+    
+    display: block;
+    background-color: #483D8B;
+    cursor: pointer;
+}
+#new-board-btn {
+    white-space: normal;
+}
+.mrgli{
+    margin-left:20px;
+}
+.txtx{
+    padding-left: 5px;
+    text-align: left;
+}
+
+.btn-block{
+    margin-top: 5px;
+}
+
+td .link_a{
+    
+    color: black;
+    text-decoration: none;
+}
+td .link_a a:hover{
+    
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.link_b{
+    
+    color: white;
+    text-decoration: none;
+}
+
+.link_b a:hover{
+    
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
